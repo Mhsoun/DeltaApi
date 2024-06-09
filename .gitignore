@@ -1,0 +1,54 @@
+﻿# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.userprefs
+*.sqlite
+*.sqlite3
+*.db
+
+# Ignore build results
+bin/
+obj/
+Debug/
+Release/
+
+# Ignore appsettings.json to protect sensitive information
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+
+# Ignore Rider project files
+.idea/
+.idea_modules/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/shelf/
+.idea/workspace.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/codeStyles/Project.xml
+.idea/copyright/
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore npm packages
+node_modules/
+
+# Ignore any environment specific settings
+.env
+
+# Ignore coverage files
+coverage/
+*.coverlet/
+
+# Ignore test results
+TestResults/
