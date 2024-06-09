@@ -15,12 +15,12 @@ A RESTful API to calculate exchange rate deltas between a base currency and othe
    git clone https://github.com/yourusername/yourrepository.git
    cd yourrepository
    
-2. **Create Configuration File
+2. **Create Configuration File**
 
 
 cp appsettings.sample.json appsettings.json
 
-3. **Update Configuration
+3. **Update Configuration**
 
 Open appsettings.json and add your API key:
 {
@@ -30,10 +30,10 @@ Open appsettings.json and add your API key:
   }
 }
 
-4. **Install Dependencies
+4. **Install Dependencies**
 
 dotnet restore
 
-5. **Run the Application
+5. **Run the Application**
 
 dotnet run# DeltaApi
