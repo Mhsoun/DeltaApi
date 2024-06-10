@@ -12,8 +12,8 @@ A RESTful API to calculate exchange rate deltas between a base currency and othe
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/Mhsoun/DeltaApi.git
+   cd DeltaApi
    
 2. **Create Configuration File**
 
